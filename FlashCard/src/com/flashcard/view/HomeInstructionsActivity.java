@@ -2,10 +2,6 @@
  * Date: Jan 7, 2010
  * Project: FlashCard
  * User: dmason
- * This software is subject to license of
- * IBBL-TGen
- * http://www.gouvernement.lu/
- * http://www.tgen.org 
  */
 package com.flashcard.view;
 
